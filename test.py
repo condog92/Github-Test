@@ -1,2 +1,1 @@
-erwerewrwe  
-rewrwre
+print("hello world")
